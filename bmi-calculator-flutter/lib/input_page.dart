@@ -2,16 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'reusable_card.dart';
 import 'icon_content.dart';
-
-const bottomContainerHeight = 70.0;
-const bottomContainerColor = Color(0xFFEB1555);
-const inactiveColor = Color(0xFF111328);
-const activeColor = Color(0xFF1D1E33);
-const anotherColor = Color(0xFF8D8E98);
-const defaultColor = Color(0xFF0E0C20);
-
-
-
+import 'constants.dart';
 
 class InputPage extends StatefulWidget {
   @override
@@ -107,7 +98,7 @@ class _InputPageState extends State<InputPage> {
           ),
           Container(
             color: bottomContainerColor,
-            height: bottomContainerHeight,
+            height: kBottomContainerHeight,
           ),
         ],
       )
