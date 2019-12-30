@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/Akshata/flutter
-FLUTTER_APPLICATION_PATH=/Users/Akshata/AndroidStudioProjects/Flutter/bmi-calculator-flutter
-FLUTTER_TARGET=/Users/Akshata/AndroidStudioProjects/Flutter/bmi-calculator-flutter/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/Akshata/AndroidStudioProjects/GitFlutter/bmi-calculator-flutter
+FLUTTER_TARGET=/Users/Akshata/AndroidStudioProjects/GitFlutter/bmi-calculator-flutter/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/Akshata/flutter/bin/cache/artifacts/engine/ios
